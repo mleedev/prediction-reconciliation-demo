@@ -1,0 +1,17 @@
+# CMake build output
+build/
+out/
+
+# Visual Studio
+.vs/
+*.user
+
+# Compiled output
+*.exe
+*.obj
+*.ilk
+*.pdb
+
+# OS
+.DS_Store
+Thumbs.db
